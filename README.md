@@ -1,5 +1,5 @@
 # Overview
-This repository contains C++ projects developed for the 'Object-Oriented Programming' class, which I attended during my second semester at AGH University of Science and Technology in Krakow.
+This repository contains C++ projects developed for the 'Object-Oriented Programming' class, which I attended during my second semester at AGH University of Krakow.
 
 Each class, I was given one of these exercises with a strict deadline of one hour to complete it. The difficulty gradually increased with each subsequent exercise. 
 We were evaluated based on the time it took to finish the task and the quality of our solution.
